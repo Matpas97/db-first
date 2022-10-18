@@ -1,0 +1,10 @@
+AUTO USATE
+
+- id : intero MEDIUMINT
+- marca : stringa - VARCHAR(50)
+- modello : stringa - VARCHAR (50)
+- chilometraggio : intero - INT
+- anno : intero : intero -SMALLINT
+- concessionaria : stringa - VARCHAR(50)
+- auto_disponibili : intero - TINYINT
+- auto_in_arrivo : intero - TINYINT
